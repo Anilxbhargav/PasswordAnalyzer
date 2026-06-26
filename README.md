@@ -114,7 +114,7 @@ python app.py --help
 
 ---
 
-## 👤 Author
+## 👤 Author - Anil Bhargav
 
 **BCA Cyber Security Student**  
 Course: Bachelor of Computer Applications – Cyber Security  
